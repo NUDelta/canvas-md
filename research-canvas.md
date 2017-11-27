@@ -27,7 +27,7 @@ date:
 
 ### Why do they care (is this problem important?)
 
-### What’s your problem statement? (Does it capture a core tension? Agent wants X but Y)
+### What's your problem statement? (Does it capture a core tension? Agent wants X but Y)
 
 ## Describe desired outcome
 
@@ -77,175 +77,164 @@ date:
 ### What are interface challenges for realizing your design arguments? 
 
 1. **Problem statement:** 
-    
-        **Why important:**  
 
-            **Desired outcome:** 
+    **Why important:**  
 
-                **Core obstacles:**  
+    **Desired outcome:** 
 
-                2. **Problem statement:** 
-                    
-                        **Why important:**  
+    **Core obstacles:**  
 
-                            **Desired outcome:** 
 
-                                **Core obstacles:**  
+### What are your interface solutions & arguments?
 
+|           Feature            |                                    Argument                                   |
+| ---------------------------- | ----------------------------------------------------------------------------- |
 
-                                ### What are your interface solutions & arguments?
+### Does your interface solution work? Apply Q16 to the interface problem. Note all potential issues.
 
-                                |           Feature            |                                    Argument                                   |
-                                | ---------------------------- | ----------------------------------------------------------------------------- |
+- **Might the design fail due to an unaccounted obstacle? If so, go back to step 5.**
+- **Do arguments address all the core obstacles? If not, go back to step 6.**
+- **Are arguments based on literature (e.g., established theory or practical evidence)? If not go back to step 7.**
+- **Is design very similar to existing system? If similar go back to Q5.**
 
-                                ### Does your interface solution work? Apply Q16 to the interface problem. Note all potential issues.
+## Build the interface model
 
-                                - **Might the design fail due to an unaccounted obstacle? If so, go back to step 5.**
-                                - **Do arguments address all the core obstacles? If not, go back to step 6.**
-                                - **Are arguments based on literature (e.g., established theory or practical evidence)? If not go back to step 7.**
-                                - **Is design very similar to existing system? If similar go back to Q5.**
+### From the user perspective, how does the system work?
 
-                                ## Build the interface model
+#### Journey map (capture goals/scenarios)
 
-                                ### From the user perspective, how does the system work?
+>    please include journey map screenshots+commentary 
 
-                                #### Journey map (capture goals/scenarios)
+#### Storyboard (capture flow and core characteristics)
 
-                                >    please include journey map screenshots+commentary 
+#### Interface prototype (capture affordances for achieving high-level goals)
 
-                                #### Storyboard (capture flow and core characteristics)
+> please include interface prototype screenshots+commentary 
 
-                                #### Interface prototype (capture affordances for achieving high-level goals)
+### Does the interface solve the user’s problem?
 
-                                > please include interface prototype screenshots+commentary 
+* *Does interface map onto design argument?* 
+* *Does interface map onto interface arguments?* 
 
-                                ### Does the interface solve the user’s problem?
+## Formulate system arguments
 
-                                * *Does interface map onto design argument?* 
-                                * *Does interface map onto interface arguments?* 
+### What are technical challenges for realizing the interface model?
 
-                                ## Formulate system arguments
+1. 
 
-                                ### What are technical challenges for realizing the interface model?
+### What are the technical solution & arguments?
 
-                                1. 
+1. 
 
-                                ### What are the technical solution & arguments?
+### Does your technical solution work? Apply Q16 to the technical problem. Describe all potential issues.
 
-                                1. 
+- **Might the system fail due to an unaccounted obstacle? If so, go back to step 5.**
+- **Do arguments address all the core obstacles? If not, go back to step 6.**
+- **Are arguments based on literature (e.g., established theory or practical evidence)? If not go back to step 7.**
+- **Is design very similar to existing system? If similar go back to Q5.**
 
-                                ### Does your technical solution work? Apply Q16 to the technical problem. Describe all potential issues.
+## Build the system model
 
-                                - **Might the system fail due to an unaccounted obstacle? If so, go back to step 5.**
-                                - **Do arguments address all the core obstacles? If not, go back to step 6.**
-                                - **Are arguments based on literature (e.g., established theory or practical evidence)? If not go back to step 7.**
-                                - **Is design very similar to existing system? If similar go back to Q5.**
+### How does the system actually work?
 
-                                ## Build the system model
+#### Architecture diagram (capture system design)
 
-                                ### How does the system actually work?
+> please include diagram + description
 
-                                #### Architecture diagram (capture system design)
+#### Technical storyboard (illustrate technique via step-by-step walkthrough)
 
-                                > please include diagram + description
+#### Proof of concept (demonstrate feasibility of technical solution)
 
-                                #### Technical storyboard (illustrate technique via step-by-step walkthrough)
+### Does the system solve the technical challenges?
 
-                                #### Proof of concept (demonstrate feasibility of technical solution)
+- *Does system map onto design argument?*
+- *Does system map onto technical arguments?*
 
-                                ### Does the system solve the technical challenges?
+# Study Design
 
-                                - *Does system map onto design argument?*
-                                - *Does system map onto technical arguments?*
+## Study Aims and Expected Outcomes
 
-                                # Study Design
+### What is the goal of conducting your study?
 
-                                ## Study Aims and Expected Outcomes
+### What research questions will your study answer?
 
-                                ### What is the goal of conducting your study?
+1.  
 
-                                ### What research questions will your study answer?
+### What are your design arguments and claims going into the study?
 
-                                1.  
+1. 
 
-                                ### What are your design arguments and claims going into the study?
+### What are your measures for your design argument/claims?
 
-                                1. 
+1.  
 
-                                ### What are your measures for your design argument/claims?
+## Study Setup
 
-                                1.  
+### Who are your participants?
 
-                                ## Study Setup
+### What is the testing scenario?
 
-                                ### Who are your participants?
-                                 
-                                 ### What is the testing scenario?
+### What high-level tasks will users be asked to perform?
 
-                                 ### What high-level tasks will users be asked to perform?
 
+## Data Collection
 
-                                 ## Data Collection
+### What data will you collect to inform your measures for your claims?
 
-                                 ### What data will you collect to inform your measures for your claims?
+1. Claim 1
+    1. *Describe how you will collect data?*
+    2. *What specific data will you collect?* 
+    3. *Which measures and claims does the collected data inform?*
 
-                                 1. Claim 1
-                                  1. *Describe how you will collect data?*
-                                    2. *What specific data will you collect?* 
-                                      3. *Which measures and claims does the collected data inform?*
+# Findings
 
-                                      # Findings
-                                       
-                                       ## Core Findings
+## Core Findings
 
-                                       ### Concisely stated, what are your core findings?
+### Concisely stated, what are your core findings?
 
 
-                                       ### What are your core findings?
+### What are your core findings?
 
-                                       1. RQ1: 
-                                        1. Re-state core finding: [answer here]
-                                          2. Provide evidence for core finding:
-                                                1. [Please include any relevant tables, figures, charts, quotes, etc.]
-                                                  3. Evidence (a):
-                                                    4. Evidence (b):
-                                                      5. Evidence (c): 
-                                                      2. RQ2: 
-                                                        1. Re-state core finding: [answer here]
-                                                          2. Provide evidence for core finding:
-                                                                1. [Please include any relevant tables, figures, charts, quotes, etc.]
-                                                                  3. Evidence (a):
-                                                                    4. Evidence (b):
-                                                                      5. Evidence (c): 
+1. RQ1: 
+    1. Re-state core finding: [answer here]
+    2. Provide evidence for core finding:
+        1. [Please include any relevant tables, figures, charts, quotes, etc.]
+        3. Evidence (a):
+        4. Evidence (b):
+        5. Evidence (c): 
+2. RQ2: 
+    1. Re-state core finding: [answer here]
+    2. Provide evidence for core finding:
+    1. Please include any relevant tables, figures, charts, quotes, etc.
+        3. Evidence (a):
+        4. Evidence (b):
+        5. Evidence (c): 
 
-                                                                      ### Implications on your design arguments and claims
+### Implications on your design arguments and claims
 
-                                                                      - *Which parts of the design argument were correct?*
-                                                                      - *Which parts of the design argument were incorrect?*
-                                                                      - *Which parts of your design argument or claims couldn’t actually be tested with the data you collected?*
-                                                                      - *What new obstacles were encountered for reaching the desired outcomes?*
+- *Which parts of the design argument were correct?*
+- *Which parts of the design argument were incorrect?*
+- *Which parts of your design argument or claims couldn’t actually be tested with the data you collected?*
+- *What new obstacles were encountered for reaching the desired outcomes?*
 
-                                                                      ## Design Implications
+## Design Implications
 
-                                                                      ### Based on your findings, what are your revised design arguments?
+### Based on your findings, what are your revised design arguments?
 
-                                                                      > Be precise in stating your new design argument and also why these changes are effective. Highlight changes to outcomes, obstacles, intervention, and arguments.
+> Be precise in stating your new design argument and also why these changes are effective. Highlight changes to outcomes, obstacles, intervention, and arguments.
 
 
-                                                                      ### Based on your findings, how will your interface model change?
+### Based on your findings, how will your interface model change?
 
-                                                                      > Be precise in stating your new interface model and also why these changes are effective. Highlight changes to outcomes, obstacles, intervention, and arguments.
+> Be precise in stating your new interface model and also why these changes are effective. Highlight changes to outcomes, obstacles, intervention, and arguments.
 
 
-                                                                          
-                                                                          ### Based on your findings, how will your system model change?
+### Based on your findings, how will your system model change?
 
-                                                                          > Be precise in stating your new system model and also why these changes are effective. Highlight changes to outcomes, obstacles, intervention, and arguments.
+> Be precise in stating your new system model and also why these changes are effective. Highlight changes to outcomes, obstacles, intervention, and arguments.
 
 
+### Based on your findings, how will your study design change?
 
-                                                                          ### Based on your findings, how will your study design change?
-
-                                                                          > Be precise in stating changes to your study design and also why these changes
-                                                                          are effective. Highlight changes to study aims, setup, and data collection.
-
+> Be precise in stating changes to your study design and also why these changes
+are effective. Highlight changes to study aims, setup, and data collection.
